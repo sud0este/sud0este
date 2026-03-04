@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Conector Hosting
 
 🚀 Desenvolvedor focado em **Java** e **Kotlin**
+🗄 Experiência com **MongoDB**
 💡 Criando sistemas eficientes, plugins e soluções escaláveis
 🔥 Apaixonado por performance, organização e código limpo
 
@@ -26,6 +27,10 @@ Sempre buscando evoluir e criar soluções de alto nível.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 
+### 🛠 Banco de Dados
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
 ### 🛠 Ferramentas
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
@@ -49,7 +54,7 @@ Construir projetos sólidos, performáticos e profissionais que façam a diferen
 
 ## 📫 Contato
 
-* 💬 Discord: SeuNick#0000
+* 💬 Discord: **osilvaio**
 * 🌎 Portfólio: Em breve...
 
 ---
