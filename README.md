@@ -55,7 +55,6 @@ Construir projetos sólidos, performáticos e profissionais que façam a diferen
 ## 📫 Contato
 
 * 💬 Discord: **osilvaio**
-* 🌎 Portfólio: Em breve...
 
 ---
 
